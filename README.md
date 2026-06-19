@@ -84,7 +84,6 @@ docker run -p 5000:5000 flask-ecommerce-store
 
 ## Future Enhancements
 
-- Payment Gateway Integration
 - Product Categories
 - Order History
 - User Profile
