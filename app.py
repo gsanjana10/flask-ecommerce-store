@@ -66,6 +66,9 @@ def cart():
 @app.route('/checkout')
 def checkout():
     return render_template("checkout.html")
+@app.route('/place_order', methods=['POST'])
+def place_order():
+    return render_template('success.html')
 
 if __name__ == '__main__':
     with app.app_context():
