@@ -71,63 +71,59 @@ flask-ecommerce-store/
 │
 └── README.md
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
-1️⃣ Clone the Repository
-git clone <your-repository-link>
+## Clone the Repository
+
+```bash
+git clone https://github.com/gsanjana10/flask-ecommerce-store.git
 cd flask-ecommerce-store
-
-2️⃣ Install Dependencies
+Install Dependencies
 pip install -r requirements.txt
-
-3️⃣ Run the Flask Application
+Run the Flask Application
 python app.py
-
-4️⃣ Open in Browser
+Open in Browser
 http://127.0.0.1:5000
-
-🐳 Docker Deployment
-🔨 Build Docker Image
+Docker Deployment
+Build Docker Image
 docker build -t flask-ecommerce-store .
-
-▶️ Run Docker Container
+Run Docker Container
 docker run -p 5000:5000 flask-ecommerce-store
-
-🌐 Access the Application
+Access the Application
 http://localhost:5000
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
-📚 Built a Flask-based E-Commerce application
+- Built a complete Flask-based E-Commerce web application.
+- Developed user registration and login functionality.
+- Implemented shopping cart and checkout features.
+- Integrated SQLite database for user data management.
+- Designed responsive web pages using HTML and CSS.
+- Containerized the application using Docker.
+- Learned Git and GitHub for version control and collaboration.
+- Gained hands-on experience with Flask routing and templates.
+- Improved backend development and database integration skills.
+- Applied basic DevOps practices through Docker deployment.
 
-📚 Implemented shopping cart and checkout functionality
+# 🚀 Future Enhancements
 
-📚 Developed responsive frontend pages
+- User Profile Management
+- Product Search and Filtering
+- Order History Tracking
+- Payment Gateway Integration
+- Product Reviews and Ratings
+- Wishlist Functionality
+- Admin Dashboard
+- Inventory Management System
+- Email Notifications for Orders
+- CI/CD Pipeline using GitHub Actions
+- Cloud Deployment on AWS or Azure
+- Multi-Category Product Management
+- Secure Authentication and Authorization
+- Real-Time Order Tracking
 
-📚 Containerized the application using Docker
+# 👩‍💻 Author
 
-📚 Learned deployment and DevOps fundamentals
-
-📚 Used Git and GitHub for version control
-
-🔮 Future Enhancements
-
-✨ User Authentication (Login & Signup)
-
-✨ MySQL Database Integration
-
-✨ Product Search & Filtering
-
-✨ Payment Gateway Integration
-
-✨ Order History Tracking
-
-✨ Admin Dashboard
-
-✨ CI/CD Pipeline using Jenkins or GitHub Actions
-
-✨ AWS/Azure Deployment
-
-
+**Sanjana Gampala
 
 
