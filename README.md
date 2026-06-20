@@ -7,46 +7,25 @@ A responsive E-Commerce web application developed using Flask, HTML, CSS, and Ja
 ---
 
 ## 🚀 Features
+- Product Listing Page
+- Add to Cart Functionality
+- Shopping Cart Management
+- Checkout Process
+- Order Confirmation Page
+- Responsive User Interface
+- Flask Backend Integration
+- Docker Containerization
 
-✅ Product Listing Page
+## Technologies Used
 
-✅ Add to Cart Functionality
-
-✅ Shopping Cart Management
-
-✅ Checkout Process
-
-✅ Order Confirmation Page
-
-✅ Responsive User Interface
-
-✅ Flask Backend Integration
-
-✅ Docker Containerization
-
-✅ Easy Deployment
-
----
-
-## 🛠️ Tech Stack
-
-🔹 Python
-
-🔹 Flask
-
-🔹 HTML5
-
-🔹 CSS3
-
-🔹 JavaScript
-
-🔹 Bootstrap
-
-🔹 Docker
-
-🔹 Git
-
-🔹 GitHub
+- Python
+- Flask
+- HTML
+- CSS
+- SQLite
+- Docker
+- Git
+- GitHub
 
 ---
 
