@@ -1,8 +1,8 @@
-# 🛒 Flask E-Commerce Store with Docker
+# 🛒 E-Commerce Application Deployment
 
 ## 📌 Project Overview
 
-A responsive E-Commerce web application developed using Flask, HTML, CSS, and JavaScript. Users can browse products, add items to the shopping cart, proceed to checkout, and place orders. The application is containerized using Docker for seamless deployment and portability.
+A responsive E-Commerce web pplication developed using Flask, HTML, CSS, and JavaScript. Users can browse products, add items to the shopping cart, proceed to checkout, and place orders. The application is containerized using Docker for seamless deployment and portability.
 
 ---
 
